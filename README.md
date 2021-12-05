@@ -1,4 +1,7 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neha152001&show_icons=true&theme=radical)
+
+
 
 <!--
 **Neha152001/Neha152001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
