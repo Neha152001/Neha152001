@@ -1,5 +1,11 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neha152001&show_icons=true&theme=radical)
+<p>I am currently an undergraduate at Sir M Visvesvaraya Institute of Technology,Bengaluru.</p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neha152001&show_icons=true&theme=radical&hide=issues)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=glsl,rust)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
